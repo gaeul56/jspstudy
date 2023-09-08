@@ -1,0 +1,17 @@
+<welcome-file-list>
+  <welcome-file>index.html</welcome-file>
+  <welcome-file>index.htm</welcome-file>
+  <welcome-file>index.jsp</welcome-file>
+  <welcome-file>default.html</welcome-file>
+  <welcome-file>default.htm</welcome-file>
+  <welcome-file>default.jsp</welcome-file>
+</welcome-file-list>
+<!-- 서블릿 URLMapping 바꾸기 -->
+<servlet>
+  <servlet-name>channel</servlet-name>
+  <servlet-class>ex01_lifecycle.helloServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>channel</servlet-name>
+  <url-patterm>hello</url-patterm>
+</servlet-mapping>
