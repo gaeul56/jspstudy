@@ -51,8 +51,16 @@ public class RequestServlet extends HttpServlet {
     }
     */
     // 2) null 처리를 위한 Optional 클래스 처리
+    /*
     Optional<String> opt = Optional.ofNullable(strAge);
     int age = Integer.parseInt(opt.orElse("0")); //opt로 감싼 strAge가 null 이면 "0"을 꺼낸다
+    */
+    
+    //null 처리 + 빈 문자열 처리
+    int age = 0;
+    if(strAge != null && !strAge.isEmpty()) {
+      age = Integer.parseInt(strAge);
+    }
     System.out.println(name + "," + age);
 	}
 
