@@ -1,0 +1,33 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+<% request.setCharacterEncoding("UTF-8"); %>
+<jsp:include page="header.jsp">
+  <jsp:param value="사회" name="title"/>
+</jsp:include>
+  <div class="main">
+    <h1> 사회</h1>
+    <div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at lorem eget risus lacinia hendrerit ac eu nisi. Curabitur non quam est. Morbi at blandit sapien. Mauris pretium condimentum facilisis. Pellentesque euismod venenatis odio sit amet tincidunt. Pellentesque molestie placerat mi nec tempus. Pellentesque lectus velit, dignissim nec lobortis at, vulputate et lacus. Quisque pretium, dolor sed consectetur vestibulum, turpis eros sodales elit, ut blandit lorem nulla a nulla. Pellentesque viverra placerat consequat. Ut auctor eget ante sed gravida. Suspendisse purus lectus, tristique at ipsum aliquet, fringilla lacinia ipsum. Fusce at eleifend nibh. Pellentesque ut elementum turpis, sit amet placerat erat. Nam justo odio, pharetra sodales libero condimentum, tempor viverra ex. Nullam tempor, risus id iaculis hendrerit, elit ligula laoreet augue, non convallis mi nulla nec magna.
+
+Ut nec pellentesque erat. Nunc fringilla orci orci, at efficitur quam ultricies semper. Vivamus sodales blandit risus et dignissim. Sed vitae justo non sem ultricies consequat. Aliquam aliquet felis imperdiet dui volutpat tristique. Fusce venenatis ante ultrices urna malesuada, vel congue quam efficitur. Aenean eget tempus mauris, quis consequat dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ultricies, mollis tellus nec, ultrices magna.
+
+Sed lacus ipsum, dignissim a lacus vel, tempor tempor tortor. Donec pretium sodales elit, a hendrerit tortor pellentesque vel. Duis pretium efficitur scelerisque. Pellentesque dignissim euismod risus sed mollis. Aenean consequat erat posuere, aliquet mauris et, auctor enim. Praesent eleifend, sapien non dictum cursus, massa justo laoreet magna, non lobortis lectus ipsum ut urna. Proin ac ultrices felis, nec pharetra purus. Nunc mollis elit sapien, eget porttitor est finibus fermentum. Praesent semper mi vitae gravida rhoncus. Ut mauris lacus, volutpat sed finibus sit amet, semper ac erat. Donec ultricies, sem a tempor iaculis, metus turpis aliquet erat, eget mattis leo mauris et mauris.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed volutpat sem ipsum. Sed eget sapien et massa faucibus tempor. Ut vel elit risus. Donec a tellus a odio tincidunt mollis eget ut neque. Proin quis viverra urna. In tristique sapien ac dictum imperdiet. Donec blandit erat quis ipsum porta, nec dignissim justo vulputate. Nunc euismod tempor lectus, a finibus nisi. Nullam magna ante, lacinia lacinia molestie sed, tincidunt ultricies turpis. Sed eget magna sed nunc convallis imperdiet. Sed odio lacus, vehicula non mauris ac, suscipit elementum leo. Ut finibus euismod nunc in pellentesque. Ut at elementum magna. Vestibulum scelerisque sed libero mattis tristique.
+
+Maecenas ex magna, fringilla sed vulputate in, maximus non mi. Aenean tellus tortor, cursus nec metus eget, lobortis tempus nisi. Duis tincidunt dignissim nisi, a vehicula nisl rhoncus et. Maecenas nisi nibh, dictum non auctor in, ultricies id mauris. Maecenas ullamcorper ex eu elit tincidunt, a congue enim tincidunt. Duis eleifend urna ligula, vitae cursus elit egestas eu. Sed at magna dolor. Pellentesque auctor ultricies velit, mattis tincidunt leo cursus nec.
+
+Cras aliquet scelerisque purus in vestibulum. Donec vel erat ultrices, placerat lectus sed, bibendum ante. Mauris nibh justo, accumsan id libero ac, posuere finibus enim. Ut vitae leo vel metus aliquet rhoncus ut et sapien. Donec ultricies sodales tortor, at fermentum lorem vestibulum a. Maecenas hendrerit placerat nibh vitae pulvinar. Maecenas elementum orci magna, eget gravida orci volutpat nec. Proin ut ullamcorper dui, ut posuere nibh. Nunc tincidunt ipsum a justo consequat, ut placerat nunc maximus. Aenean ac augue non elit dapibus vestibulum. Vivamus ultrices urna in turpis sodales venenatis. Nullam ultrices odio et elit rutrum sodales.
+
+Phasellus quis nibh vel risus ultricies vestibulum. Sed diam mauris, placerat at mi et, mattis mattis ligula. Curabitur sagittis id purus in consequat. Etiam commodo et justo non efficitur. Nullam maximus accumsan metus, id tempor risus dapibus vel. Nulla pellentesque felis eros, vitae ultrices tortor interdum eu. Nulla sit amet risus nec felis fermentum varius. Quisque tellus nulla, varius in blandit at, varius ultricies dui.
+
+Maecenas nec sapien eu tellus feugiat cursus sed eu tortor. Mauris rutrum facilisis odio, hendrerit suscipit justo aliquet sit amet. In rhoncus aliquam ante, at varius sem euismod eu. Curabitur scelerisque dolor et massa venenatis condimentum varius id augue. Vivamus est metus, iaculis ut tempor a, lacinia id arcu. Sed varius augue ante, nec ullamcorper dui rutrum sed. Nam auctor magna sed quam interdum, vitae pulvinar dui hendrerit. Duis mollis magna id tincidunt tempor. Nunc dui lectus, pharetra vel purus a, aliquam convallis eros. Sed a eros vestibulum, aliquet leo tristique, sollicitudin massa. Vivamus nec luctus ligula, malesuada tincidunt felis. Curabitur congue interdum diam vel molestie. Cras volutpat rutrum dolor ac vestibulum. Sed vitae dui urna.
+
+Vivamus tincidunt est et arcu ultricies sodales. Suspendisse nec feugiat risus, ac lacinia mi. Nunc eleifend, lectus vel volutpat viverra, ex ex placerat ipsum, at tempus elit lectus sollicitudin mi. Curabitur sed hendrerit sapien. Donec auctor ac felis vel eleifend. Donec enim ligula, sodales id velit placerat, finibus laoreet tellus. Aliquam aliquet et nulla in ultricies.
+
+Nullam sollicitudin justo nec ex sollicitudin, a commodo purus fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. Sed ligula felis, finibus eget tempus vitae, pellentesque quis nibh. Suspendisse potenti. Nam eleifend, lectus sit amet bibendum iaculis, nulla libero condimentum dolor, porttitor venenatis sapien purus vitae libero. Curabitur eu neque ac turpis ornare dictum. Nam a est in lacus congue bibendum at sit amet tellus. Ut ullamcorper libero eget leo malesuada gravida. Pellentesque maximus sem massa, a consectetur lacus sagittis vitae. Donec aliquam eros ut tellus pellentesque, id dictum augue faucibus. Vestibulum rhoncus mauris eu felis efficitur feugiat ut quis massa. Vivamus a arcu sed dolor sodales lobortis in vitae ipsum. Sed lorem sapien, cursus ac egestas in, tincidunt vitae mi.
+    </div>
+  </div>
+
+<%@ include file = "footer.jsp" %>
